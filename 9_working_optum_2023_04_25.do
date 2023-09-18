@@ -7,7 +7,7 @@ cd "/path/"
 
 * path
 local file_name = "working_optum_2023_04_25"
-local path = "/Users/emily2/Dropbox/Echo_Optum/STATA/"
+local path = "/path/"
 log using "`path'`file_name'.txt", text replace
 
 * import the .dta file  
